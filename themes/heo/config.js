@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '这是一段小字',
   HEO_HERO_TITLE_4: '置顶文章',
   HEO_HERO_TITLE_5: '查看我的BENTO主页',
-  HEO_HERO_TITLE_LINK: 'bento.me/yanxi',
+  HEO_HERO_TITLE_LINK: 'https://bento.me/yanxi',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
